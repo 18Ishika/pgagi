@@ -15,6 +15,7 @@ The **TalentScout Hiring Assistant** is a web-based application that collects ca
 - Candidate data saved in JSON format
 - Streamlit UI with progress tracking
 - Downloadable application data
+- Uses Gemini-1.5-flash model
 
 ## 📦 Requirements
 
@@ -25,5 +26,8 @@ pip install -r requirements.txt
 ```
 
 ## How to run 
-
+```
 streamlit run new.py
+```
+
+### Get your API key from Gooogle AI studio and paste it 
